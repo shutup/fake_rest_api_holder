@@ -1,0 +1,14 @@
+{
+  "voteContent":"Is Tomorrow Sunny Day?",
+  "isVoted":false,
+  "voteOptions":[
+    "Yes",
+    "No",
+    "Not Sure"
+  ],
+  "voteCounts":[
+    12,
+    23,
+    0
+  ]
+}
